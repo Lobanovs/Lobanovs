@@ -106,9 +106,7 @@
   <a href="https://t.me/lobanovsemyon"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <i>Открыт для 1–2 проектов в июле.</i>
-</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:10b981,100:84cc16&height=100&section=footer" />
