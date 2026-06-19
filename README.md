@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Шапка-градиент. Текст ниже в markdown — так надёжнее для кириллицы -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,50:10b981,100:06b6d4&height=200&section=header" alt="header" />
+<img src="./github-profile-banner.png" alt="header" />
 
 <h1>Привет, я Семён Лобанов</h1>
 <p><b>Full-stack разработчик • UX/UI • ИИ-автоматизация</b></p>
