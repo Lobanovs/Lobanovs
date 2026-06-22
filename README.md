@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Шапка-градиент. Текст ниже в markdown — так надёжнее для кириллицы -->
-<img src="./github-profile-banner.png" alt="header" />
+<img src="./lobanovs.png" alt="header" />
 
 <h1>Привет, я Семён Лобанов</h1>
 <p><b>Full-stack разработчик • UX/UI • ИИ-автоматизация</b></p>
